@@ -4,30 +4,351 @@ title: Calendar
 uid: 9e1ddf2e-5132-9234-0cce-4221ef41307d
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction, Basic Terminology, Scope |  |
-| 2 | Organization for Production |  |
-| 3 | Special Effects: Lighting |  |
-| 4 | Materials for Production | Organization for production tech note due |
-| 5 | Scenic Mechanisms: Rigging |  |
-| 6 | Scenery: Flats |  |
-| 7 | Scenery: Decks and Stairs  {{< br >}}  {{< br >}}Design Symposium: Design for the Theater | Materials for production tech note due  {{< br >}}  {{< br >}}Flattage tech note due |
-| 8 | Scenery: Drops and Softgoods | Decks and stairs tech note due  {{< br >}}  {{< br >}}Drops and softgoods tech note due |
-| 9 | Scenery: Three Dimensional |  |
-| 10 | Scenery: Paint, Doors, Molding, Finishes | Initial final project proposal due |
-| 11 | Scenery: Structural Analysis |  |
-| 12 | Scenery: Wrap Up and Miscellany | 3 dimenensional scenery tech note due  {{< br >}}  {{< br >}}Paint and finishes tech note due  {{< br >}}  {{< br >}}Structural analysis tech note due  {{< br >}}  {{< br >}}Scenery tech note due |
-| 13 | Scenic Mechanisms: Rigging |  |
-| 14 | Scenic Mechanisms: Rigging (cont.) | Theatrical rigging tech note due |
-| 15 | Scenic Mechanisms: Rolling Units | Revised final project proposal due |
-| 16 | Scenic Mechanisms: Turntables |  |
-| 17 | Scenic Mechanisms: Turntables (cont.) | Rolling unit tech note due  {{< br >}}  {{< br >}}Turntable tech note due  {{< br >}}  {{< br >}}Motors and drives tech note due |
-| 18 | Scenic Mechanisms: Pneumatics, Hydraulics |  |
-| 19 | Scenic Mechanisms: Electrical Power  {{< br >}}  {{< br >}}Final Project Presentation | Pneumatics and hydraulics tech note due  {{< br >}}  {{< br >}}Electrical tech note due  {{< br >}}  {{< br >}}Scenic mechanisms tech note due |
-| 20 | Scenic Mechanisms: Wrap Up and Miscellany |  |
-| 21 | Special Effects: Traditional Effects |  |
-| 22 | Special Effects: Projection | Traditional effects tech note due  {{< br >}}  {{< br >}}Projection tech note due |
-| 23 | Special Effects: Pyro and Fog/Mist | Lighting effects tech note due  {{< br >}}  {{< br >}}Pyrotechnics tech note due  {{< br >}}  {{< br >}}Atmospherics tech note due  {{< br >}}  {{< br >}}Special effects tech note due |
-| 24 | Special Effects: Wrap Up and Miscellany |  |
-| 25 | Final Project Presentation | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Basic Terminology, Scope
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Organization for Production
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Special Effects: Lighting
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Materials for Production
+{{< tdclose >}}
+{{< tdopen >}}
+Organization for production tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Rigging
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Flats
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Decks and Stairs  
+  
+Design Symposium: Design for the Theater
+{{< tdclose >}}
+{{< tdopen >}}
+Materials for production tech note due  
+  
+Flattage tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Drops and Softgoods
+{{< tdclose >}}
+{{< tdopen >}}
+Decks and stairs tech note due  
+  
+Drops and softgoods tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Three Dimensional
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Paint, Doors, Molding, Finishes
+{{< tdclose >}}
+{{< tdopen >}}
+Initial final project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Structural Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Scenery: Wrap Up and Miscellany
+{{< tdclose >}}
+{{< tdopen >}}
+3 dimenensional scenery tech note due  
+  
+Paint and finishes tech note due  
+  
+Structural analysis tech note due  
+  
+Scenery tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Rigging
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Rigging (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Theatrical rigging tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Rolling Units
+{{< tdclose >}}
+{{< tdopen >}}
+Revised final project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Turntables
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Turntables (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Rolling unit tech note due  
+  
+Turntable tech note due  
+  
+Motors and drives tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Pneumatics, Hydraulics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Electrical Power  
+  
+Final Project Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Pneumatics and hydraulics tech note due  
+  
+Electrical tech note due  
+  
+Scenic mechanisms tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Scenic Mechanisms: Wrap Up and Miscellany
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Special Effects: Traditional Effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Special Effects: Projection
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional effects tech note due  
+  
+Projection tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Special Effects: Pyro and Fog/Mist
+{{< tdclose >}}
+{{< tdopen >}}
+Lighting effects tech note due  
+  
+Pyrotechnics tech note due  
+  
+Atmospherics tech note due  
+  
+Special effects tech note due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Special Effects: Wrap Up and Miscellany
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
