@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/42d234d268c2c5c90c9de6046df63378_18spec_ef_py_fog.pdf
 file_type: application/pdf
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 18spec_ef_py_fog.pdf
 uid: 42d234d2-68c2-c5c9-0c9d-e6046df63378

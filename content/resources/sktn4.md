@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/50a1d132bba01078b5a6dff5f5c99853_sktn4.pdf
 file_type: application/pdf
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: sktn4.pdf
 uid: 50a1d132-bba0-1078-b5a6-dff5f5c99853

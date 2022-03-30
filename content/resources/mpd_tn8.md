@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/ec145a944529d914850e73d9e7124504_mpd_tn8.pdf
 file_type: application/pdf
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: mpd_tn8.pdf
 uid: ec145a94-4529-d914-850e-73d9e7124504
